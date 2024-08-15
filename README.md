@@ -23,3 +23,5 @@ The system is programmed in Python using the Thonny IDE. The code includes:
 
 - Sensor Data Acquisition: Reads temperature and humidity data from the DHT22 sensor.
 - Data Display: Sends sensor data to the LCD screen using parallel communication to display
+
+  ![Hardware](https://github.com/ruchira30/Temperature-and-Humidity-Monitoring-System/blob/main/hardware.png)
